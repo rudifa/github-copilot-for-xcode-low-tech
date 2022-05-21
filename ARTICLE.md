@@ -149,3 +149,10 @@ It does not do all the work for you, and often it needs nudging to go in the rig
 - in `Xcode > Behaviors > Edit Behaviors... > Custom` link the script to a keybord shortcut, for example `ctrl-shift-cmd-C`
 
 ![ ](./Screenshot-xcode-custom-behaviors.png)
+
+## Feedback
+
+[@rudifa](https://twitter.com/rudifa?lang=en)
+
+[github-copilot](https://github.com/rudifa/github-copilot) [@rudifa](https://github.com/rudifa)
+
