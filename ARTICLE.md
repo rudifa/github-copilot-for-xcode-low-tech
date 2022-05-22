@@ -1,3 +1,9 @@
+# THIS IS THE FIRST DRAFT
+
+# THE ARTICLE IS NOW [PUBLISHED ON MEDIUM](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
+
+<hr/>
+
 # Github Copilot for Swift iOS Developers
 
 So you signed up and joined the [Github Copilot](https://copilot.github.com/) waiting list, waited..., received the invitation, installed the Copilot extension in your VSCode, and started with co-programming.
@@ -155,4 +161,3 @@ It does not do all the work for you, and often it needs nudging to go in the rig
 [@rudifa](https://twitter.com/rudifa?lang=en)
 
 [github-copilot](https://github.com/rudifa/github-copilot) [@rudifa](https://github.com/rudifa)
-
